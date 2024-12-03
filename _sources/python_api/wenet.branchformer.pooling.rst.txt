@@ -1,0 +1,7 @@
+wenet.branchformer.pooling module
+=================================
+
+.. automodule:: wenet.branchformer.pooling
+   :members:
+   :undoc-members:
+   :show-inheritance:

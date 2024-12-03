@@ -1,0 +1,27 @@
+wenet package
+=============
+
+.. automodule:: wenet
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 2
+
+   wenet.Interformer
+   wenet.branchformer
+   wenet.cli
+   wenet.dataset
+   wenet.efficient_conformer
+   wenet.k2
+   wenet.paraformer
+   wenet.squeezeformer
+   wenet.text
+   wenet.transducer
+   wenet.transformer
+   wenet.utils
+   wenet.whisper

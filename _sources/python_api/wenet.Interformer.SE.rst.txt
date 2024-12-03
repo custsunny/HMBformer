@@ -1,0 +1,7 @@
+wenet.Interformer.SE module
+===========================
+
+.. automodule:: wenet.Interformer.SE
+   :members:
+   :undoc-members:
+   :show-inheritance:

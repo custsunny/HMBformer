@@ -1,0 +1,7 @@
+wenet.Interformer.argument module
+=================================
+
+.. automodule:: wenet.Interformer.argument
+   :members:
+   :undoc-members:
+   :show-inheritance:

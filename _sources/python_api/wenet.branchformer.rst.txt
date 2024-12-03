@@ -1,0 +1,20 @@
+wenet.branchformer package
+==========================
+
+.. automodule:: wenet.branchformer
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 2
+
+   wenet.branchformer.cgmlp
+   wenet.branchformer.cgmlp_1
+   wenet.branchformer.cgmlp_2
+   wenet.branchformer.encoder
+   wenet.branchformer.encoder_layer
+   wenet.branchformer.pooling

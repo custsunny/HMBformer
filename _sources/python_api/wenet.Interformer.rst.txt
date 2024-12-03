@@ -1,0 +1,24 @@
+wenet.Interformer package
+=========================
+
+.. automodule:: wenet.Interformer
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 2
+
+   wenet.Interformer.SE
+   wenet.Interformer.SE_module_2
+   wenet.Interformer.SK
+   wenet.Interformer.argument
+   wenet.Interformer.convolution
+   wenet.Interformer.convolution_extraction
+   wenet.Interformer.dyrelu
+   wenet.Interformer.encoder
+   wenet.Interformer.encoder_layer
+   wenet.Interformer.swish

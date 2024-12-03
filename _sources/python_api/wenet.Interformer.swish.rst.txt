@@ -1,0 +1,7 @@
+wenet.Interformer.swish module
+==============================
+
+.. automodule:: wenet.Interformer.swish
+   :members:
+   :undoc-members:
+   :show-inheritance:

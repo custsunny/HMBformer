@@ -1,0 +1,7 @@
+wenet.transformer.sh\_attention module
+======================================
+
+.. automodule:: wenet.transformer.sh_attention
+   :members:
+   :undoc-members:
+   :show-inheritance:

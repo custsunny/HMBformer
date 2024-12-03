@@ -1,0 +1,7 @@
+wenet.Interformer.dyrelu module
+===============================
+
+.. automodule:: wenet.Interformer.dyrelu
+   :members:
+   :undoc-members:
+   :show-inheritance:

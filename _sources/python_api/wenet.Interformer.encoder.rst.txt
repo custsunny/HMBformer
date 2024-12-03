@@ -1,0 +1,7 @@
+wenet.Interformer.encoder module
+================================
+
+.. automodule:: wenet.Interformer.encoder
+   :members:
+   :undoc-members:
+   :show-inheritance:

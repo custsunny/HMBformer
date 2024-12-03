@@ -1,0 +1,7 @@
+wenet.transformer.hypermixing module
+====================================
+
+.. automodule:: wenet.transformer.hypermixing
+   :members:
+   :undoc-members:
+   :show-inheritance:

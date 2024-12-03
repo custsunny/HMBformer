@@ -1,0 +1,7 @@
+wenet.Interformer.convolution\_extraction module
+================================================
+
+.. automodule:: wenet.Interformer.convolution_extraction
+   :members:
+   :undoc-members:
+   :show-inheritance:

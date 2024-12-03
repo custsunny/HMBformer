@@ -1,0 +1,7 @@
+wenet.Interformer.convolution module
+====================================
+
+.. automodule:: wenet.Interformer.convolution
+   :members:
+   :undoc-members:
+   :show-inheritance:

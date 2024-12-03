@@ -1,0 +1,7 @@
+wenet.utils.init\_tokenizer module
+==================================
+
+.. automodule:: wenet.utils.init_tokenizer
+   :members:
+   :undoc-members:
+   :show-inheritance:
