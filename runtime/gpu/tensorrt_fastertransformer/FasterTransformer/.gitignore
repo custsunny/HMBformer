@@ -1,0 +1,13 @@
+*~
+*.o
+*build*/
+./models/
+__pycache__/
+.vscode
+./translation
+.cache
+*.npy
+*.pth
+!tests/data/**/*.npy
+/models
+**/.ipynb_checkpoints/
